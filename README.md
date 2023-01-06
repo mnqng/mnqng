@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### About me
-I'm a versatile pharmacist-scientist passionate about accelerating drug discovery and improving patient care with informatics. I love solving complex problems leveraging my clinical expertise, data science skills and health research experience. Check out my website [here](https://manqing.me) to learn more about my research and experiences. 
+I'm a pharmacist-scientist passionate about accelerating drug discovery and improving patient care with informatics. I love solving complex problems leveraging my clinical expertise, data science skills and health research experience. Check out my website [here](https://manqing.me) to learn more about my research and experiences. 
 
 Below, you can find some of the projects that I've accomplished throughout my journey in biomedical informatics!
 
